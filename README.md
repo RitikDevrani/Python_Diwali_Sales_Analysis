@@ -132,7 +132,7 @@ Diwali-Sales-Analysis
 
 2 Navigate to the Project Folder
     
-    cd Diwali-Sales-Analysis
+    cd Python_Diwali_Sales_Analysis
 
 3 Install Required Libraries
 
