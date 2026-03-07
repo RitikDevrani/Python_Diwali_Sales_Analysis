@@ -126,19 +126,19 @@ Diwali-Sales-Analysis
 
 
 # How to Run This Project
-1. Clone the Repository git clone
+1 Clone the Repository git clone
     
     https://github.com/RitikDevrani/Python_Diwali_Sales_Analysis.git
 
-2. Navigate to the Project Folder
+2 Navigate to the Project Folder
     
     cd Diwali-Sales-Analysis
 
-3. Install Required Libraries
+3 Install Required Libraries
 
     pip install pandas numpy matplotlib seaborn
 
-4. Run Jupyter Notebook
+4 Run Jupyter Notebook
 
     jupyter notebook
 
