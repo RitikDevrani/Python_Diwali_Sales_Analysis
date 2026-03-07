@@ -63,8 +63,11 @@ This project uses the following tools and libraries:
 Load the dataset and required libraries.
 
   import pandas as pd
+  
   import numpy as np
+  
   import matplotlib.pyplot as plt
+  
   import seaborn as sns
   
   df = pd.read_csv("Diwali Sales Data.csv", encoding='unicode_escape')
