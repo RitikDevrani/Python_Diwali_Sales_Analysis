@@ -127,7 +127,7 @@ Diwali-Sales-Analysis
 
 # How to Run This Project
 1. Clone the Repository
-  git clone https://github.com/RitikDevrani/Diwali-Sales-Analysis.git
+  git clone https://github.com/RitikDevrani/Python_Diwali_Sales_Analysis.git
 
 2. Navigate to the Project Folder
   cd Diwali-Sales-Analysis
